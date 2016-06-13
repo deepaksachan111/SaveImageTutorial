@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/AndroidProject/SaveImageTutorial1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Save Image Tutorial</string>
+    <string name="menu_settings">Settings</string>
+    <!-- From: file:/F:/AndroidProject/SaveImageTutorial1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
